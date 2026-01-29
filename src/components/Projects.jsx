@@ -24,10 +24,10 @@ function Projects() {
     },
     {
       id: 3,
-      title: "Project 3",
+      title: "Project sample",
       gradient: "linear-gradient(45deg, #7c3aed, #6d28d9)",
       tech: ["Node.js", "MongoDB", "React"],
-      description: "Project 3 example",
+      description: "Project sample description goes here.",
       details: "",
       codeUrl: "#",
       demoUrl: "#"
